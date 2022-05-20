@@ -30,10 +30,10 @@ landing-page
 
 ```sh
 # Create a tailwind.config.js file
-$ ./tailwindcss init
+$ ./tailwindcss-linux-x64 init
 ```
 
-The tailwind.config.js shoul appear then copy and paste the following into it :
+The tailwind.config.js should appear then copy and paste the following into it :
 
 ```js
 module.exports = {
